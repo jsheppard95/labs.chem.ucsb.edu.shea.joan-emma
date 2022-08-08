@@ -1,0 +1,140 @@
+
+a:link{
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+
+#headLogoPanel {
+	position:absolute;
+	height:80px;
+	z-index:1;
+	background:#013165;
+	left: 0px;
+	top: 0px;
+	width: 914px;
+	border: thin black groove;
+}
+
+#ucLogoPanel {
+	position:absolute;
+	width:120px;
+	height:527px;
+	background: #013165;
+	z-index:1;
+	left: 3px;
+	top: 85px;
+}
+
+#SheaMenu {
+	position:absolute;
+	width:94px;
+	height:150px;
+	z-index:2;
+	left: 15px;
+	top: 207px;
+	line-height: 30px;
+	text-decoration: none;
+	font-size: 18px;
+	text-align:center;
+}
+
+#SheaMain {
+	position:absolute;
+	width:788px;
+	height:529px;
+	z-index:1;
+	left: 127px;
+	top: 84px;
+}
+
+#mainDiv {
+	position:absolute;
+	width:100%;
+	height:100%;
+	z-index:1;
+	left: 0px;
+	top: 0px;
+}
+
+
+#address {
+	position:absolute;
+	width:220px;
+	height:55px;
+	z-index:1;
+	left: 14px;
+	top: 453px;
+	color:#FFFFFF;
+}
+
+
+#rdDiv{
+	position:absolute;
+	overflow:auto;
+	width:99%;
+	height:98%;
+	z-index:1;
+	left: 6px;
+	top: 6px;
+}
+
+#pubHead{
+	background-color:#FFFFCC;
+	font-size:20px;
+	border:thin black groove;
+	position:absolute;
+	z-index:2;
+	padding:5px;
+}
+
+#pubDiv {
+	position:fixed;
+	overflow:auto;
+	width:100%;
+	height:100%;
+	z-index:1;
+	left: 0px;
+	top: 0px;
+	border:thin black groove;
+}
+
+#peopleDiv {
+	position:absolute;
+	width:99%;
+	height:98%;
+	z-index:1;
+	left: 6px;
+	top: 6px;
+	overflow:auto;
+}
+
+#SheaCourses{
+	position:inherit;
+	overflow:auto;
+	height:130px;
+	border: thin black groove;
+	font-size:14px;
+	width:426px;
+}
+
+.eColor{
+	color:blue;
+}
+
+
+#groupDiv {
+	position:absolute;
+	overflow:auto;
+	width:99%;
+	height:99%;
+	z-index:1;
+	left: 0px;
+	top: 2px;
+	padding:2px;
+}
+
+.designer{
+	font-size:11px;
+}
