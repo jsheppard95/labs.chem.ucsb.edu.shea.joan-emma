@@ -3,7 +3,7 @@
     {
       "title": "Amyloid-\u03b2 protein oligomerization and the importance of tetramers and dodecamers in the aetiology of Alzheimer's disease",
       "authors": "Summer L Bernstein and Nicholas F Dupuis and Noel D Lazo and Thomas Wyttenbach and Margaret M Condron and Gal Bitan and David B Teplow and Joan-Emma Shea and Brandon T Ruotolo and Carol V Robinson and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "Nature chemistry",
       "year": 2009,
       "doi": "https://www.nature.com/articles/nchem.247",
       "volume": "1",
@@ -30,7 +30,7 @@
     {
       "title": "Amyloid \u03b2-Protein:\u2009 Monomer Structure and Early Aggregation States of A\u03b242 and Its Pro19 Alloform",
       "authors": "Summer L Bernstein and Thomas Wyttenbach and Andrij Baumketner and Joan-Emma Shea and Gal Bitan and David B Teplow and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2005,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/ja044531p",
       "volume": "127",
@@ -39,7 +39,7 @@
     {
       "title": "Moltemplate: A tool for coarse-grained modeling of complex biological matter and soft condensed matter physics",
       "authors": "Andrew I Jewett and David Stelter and Jason Lambert and Shyam M Saladi and Otello M Roscioni and Matteo Ricci and Ludovic Autin and Martina Maritan and Saeed M Bashusqeh and Tom Keyes and Remus T Dame and Joan-Emma Shea and Grant J Jensen and David S Goodsell",
-      "journal": "Unknown journal",
+      "journal": "Journal of molecular biology",
       "year": 2021,
       "doi": "https://www.sciencedirect.com/science/article/pii/S0022283621000358",
       "volume": "433",
@@ -48,7 +48,7 @@
     {
       "title": "Amyloid \u03b2\u2010protein monomer structure: A computational and experimental study",
       "authors": "Andrij Baumketner and Summer L Bernstein and Thomas Wyttenbach and Gal Bitan and David B Teplow and Michael T Bowers and Joan\u2010Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Protein Science",
       "year": 2006,
       "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1110/ps.051762406",
       "volume": "15",
@@ -57,7 +57,7 @@
     {
       "title": "Exploring the origins of topological frustration: design of a minimally frustrated model of fragment B of protein A",
       "authors": "Joan-Emma Shea and Jos\u00e9 N Onuchic and Charles L Brooks III",
-      "journal": "Unknown journal",
+      "journal": "Proceedings of the National Academy of Sciences",
       "year": 1999,
       "doi": "https://www.pnas.org/doi/abs/10.1073/pnas.96.22.12512",
       "volume": "96",
@@ -75,7 +75,7 @@
     {
       "title": "Complete phase diagram for liquid\u2013liquid phase separation of intrinsically disordered proteins",
       "authors": "James McCarty and Kris T Delaney and Scott PO Danielsen and Glenn H Fredrickson and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The journal of physical chemistry letters",
       "year": 2019,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b00099",
       "volume": "10",
@@ -84,7 +84,7 @@
     {
       "title": "Human islet amyloid polypeptide monomers form ordered \u03b2-hairpins: a possible direct amyloidogenic precursor",
       "authors": "Nicholas F Dupuis and Chun Wu and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2009,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/ja903814q",
       "volume": "131",
@@ -93,7 +93,7 @@
     {
       "title": "The amyloid formation mechanism in human IAPP: dimers have \u03b2-strand monomer\u2212 monomer interfaces",
       "authors": "Nicholas F Dupuis and Chun Wu and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2011,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/ja1081537",
       "volume": "133",
@@ -102,7 +102,7 @@
     {
       "title": "Role of water in mediating the assembly of Alzheimer amyloid-\u03b2 A\u03b216\u2212 22 protofilaments",
       "authors": "Mary Griffin Krone and Lan Hua and Patricia Soto and Ruhong Zhou and BJ Berne and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2008,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/ja8017303",
       "volume": "130",
@@ -120,7 +120,7 @@
     {
       "title": "Regulation and aggregation of intrinsically disordered peptides",
       "authors": "Zachary A Levine and Luca Larini and Nichole E LaPointe and Stuart C Feinstein and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Proceedings of the National Academy of Sciences",
       "year": 2015,
       "doi": "https://www.pnas.org/doi/abs/10.1073/pnas.1418155112",
       "volume": "112",
@@ -129,7 +129,7 @@
     {
       "title": "Effects of solvent on the structure of the Alzheimer amyloid-\u03b2 (25\u201335) peptide",
       "authors": "Guanghong Wei and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical journal",
       "year": 2006,
       "doi": "https://www.cell.com/AJHG/fulltext/S0006-3495(06)71878-1",
       "volume": "91",
@@ -138,7 +138,7 @@
     {
       "title": "Binding of Congo red to amyloid protofibrils of the Alzheimer A\u03b29\u201340 peptide probed by molecular dynamics simulations",
       "authors": "Chun Wu and Justin Scott and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical journal",
       "year": 2012,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(12)00780-1",
       "volume": "103",
@@ -156,7 +156,7 @@
     {
       "title": "The binding of thioflavin T and its neutral analog BTA-1 to protofibrils of the Alzheimer\u2019s disease A\u03b216\u201322 peptide probed by molecular dynamics simulations",
       "authors": "Chun Wu and Zhixiang Wang and Hongxing Lei and Yong Duan and Michael T Bowers and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Journal of molecular biology",
       "year": 2008,
       "doi": "https://www.sciencedirect.com/science/article/pii/S0022283608012205",
       "volume": "384",
@@ -165,7 +165,7 @@
     {
       "title": "Tau assembly: the dominant role of PHF6 (VQIVYK) in microtubule binding region repeat R3",
       "authors": "Pritam Ganguly and Thanh D Do and Luca Larini and Nichole E LaPointe and Alexander J Sercel and Madeleine F Shade and Stuart C Feinstein and Michael T Bowers and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The journal of physical chemistry B",
       "year": 2015,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.5b00175",
       "volume": "119",
@@ -174,7 +174,7 @@
     {
       "title": "Moltemplate a coarse-grained model assembly tool",
       "authors": "Andrew I Jewett and Zhuoyun Zhuang and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical Journal",
       "year": 2013,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(12)02199-6",
       "volume": "104",
@@ -183,7 +183,7 @@
     {
       "title": "Structure of the 21\u201330 fragment of amyloid \u03b2\u2010protein",
       "authors": "Andrij Baumketner and Summer L Bernstein and Thomas Wyttenbach and Noel D Lazo and David B Teplow and Michael T Bowers and Joan\u2010Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Protein Science",
       "year": 2006,
       "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1110/ps.062076806",
       "volume": "15",
@@ -192,7 +192,7 @@
     {
       "title": "Probing the folding free energy landscape of the src-SH3 protein domain",
       "authors": "Joan-Emma Shea and Jos\u00e9 N Onuchic and Charles L Brooks III",
-      "journal": "Unknown journal",
+      "journal": "Proceedings of the National Academy of Sciences",
       "year": 2002,
       "doi": "https://www.pnas.org/doi/abs/10.1073/pnas.242293099",
       "volume": "99",
@@ -201,7 +201,7 @@
     {
       "title": "Dehydration entropy drives liquid-liquid phase separation by molecular crowding",
       "authors": "Sohee Park and Ryan Barnes and Yanxian Lin and Byoung-jin Jeon and Saeed Najafi and Kris T Delaney and Glenn H Fredrickson and Joan-Emma Shea and Dong Soo Hwang and Songi Han",
-      "journal": "Unknown journal",
+      "journal": "Communications Chemistry",
       "year": 2020,
       "doi": "https://www.nature.com/articles/s42004-020-0328-8",
       "volume": "3",
@@ -210,7 +210,7 @@
     {
       "title": "Binding modes of thioflavin-T to the single-layer \u03b2-sheet of the peptide self-assembly mimics",
       "authors": "Chun Wu and Matthew Biancalana and Shohei Koide and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Journal of molecular biology",
       "year": 2009,
       "doi": "https://www.sciencedirect.com/science/article/pii/S0022283609011954",
       "volume": "394",
@@ -219,7 +219,7 @@
     {
       "title": "Narrow equilibrium window for complex coacervation of tau and RNA under cellular conditions",
       "authors": "Yanxian Lin and James McCarty and Jennifer N Rauch and Kris T Delaney and Kenneth S Kosik and Glenn H Fredrickson and Joan-Emma Shea and Songi Han",
-      "journal": "Unknown journal",
+      "journal": "Elife",
       "year": 2019,
       "doi": "https://elifesciences.org/articles/42571",
       "volume": "8",
@@ -228,7 +228,7 @@
     {
       "title": "The structure of the Alzheimer amyloid \u03b2 10-35 peptide probed through replica-exchange molecular dynamics simulations in explicit solvent",
       "authors": "Andrij Baumketner and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Journal of molecular biology",
       "year": 2007,
       "doi": "https://www.sciencedirect.com/science/article/pii/S0022283606015440",
       "volume": "366",
@@ -237,7 +237,7 @@
     {
       "title": "Effect of \u03b2-sheet propensity on peptide aggregation",
       "authors": "Giovanni Bellesia and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Chemical Physics",
       "year": 2009,
       "doi": "https://pubs.aip.org/aip/jcp/article/130/14/145103/934483",
       "volume": "130"
@@ -245,7 +245,7 @@
     {
       "title": "Effects of confinement in chaperonin assisted protein folding: rate enhancement by decreasing the roughness of the folding energy landscape",
       "authors": "A Baumketner and A Jewett and JE Shea",
-      "journal": "Unknown journal",
+      "journal": "Journal of molecular biology",
       "year": 2003,
       "doi": "https://www.sciencedirect.com/science/article/pii/S002228360300929X",
       "volume": "332",
@@ -254,7 +254,7 @@
     {
       "title": "Effects of familial Alzheimer\u2019s disease mutations on the folding nucleation of the amyloid \u03b2-protein",
       "authors": "Mary Griffin Krone and Andrij Baumketner and Summer L Bernstein and Thomas Wyttenbach and Noel D Lazo and David B Teplow and Michael T Bowers and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Journal of molecular biology",
       "year": 2008,
       "doi": "https://www.sciencedirect.com/science/article/pii/S002228360800661X",
       "volume": "381",
@@ -263,7 +263,7 @@
     {
       "title": "Accelerated folding in the weak hydrophobic environment of a chaperonin cavity: creation of an alternate fast folding pathway",
       "authors": "AI Jewett and A Baumketner and J-E Shea",
-      "journal": "Unknown journal",
+      "journal": "Proceedings of the National Academy of Sciences",
       "year": 2004,
       "doi": "https://www.pnas.org/doi/abs/10.1073/pnas.0400720101",
       "volume": "101",
@@ -272,7 +272,7 @@
     {
       "title": "Effects of surface tethering on protein folding mechanisms",
       "authors": "Miriam Friedel and Andrij Baumketner and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Proceedings of the National Academy of Sciences",
       "year": 2006,
       "doi": "https://www.pnas.org/doi/abs/10.1073/pnas.0601210103",
       "volume": "103",
@@ -281,7 +281,7 @@
     {
       "title": "Molecular design of self-coacervation phenomena in block polyampholytes",
       "authors": "Scott PO Danielsen and James McCarty and Joan-Emma Shea and Kris T Delaney and Glenn H Fredrickson",
-      "journal": "Unknown journal",
+      "journal": "Proceedings of the National Academy of Sciences",
       "year": 2019,
       "doi": "https://www.pnas.org/doi/abs/10.1073/pnas.1900435116",
       "volume": "116",
@@ -290,19 +290,11 @@
     {
       "title": "Trimethylamine N-oxide Counteracts Urea Denaturation by Inhibiting Protein\u2013Urea Preferential Interaction",
       "authors": "Pritam Ganguly and Pablo Boserman and Nico FA Van Der Vegt and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2018,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jacs.7b11695",
       "volume": "140",
       "pages": "483-492"
-    },
-    {
-      "title": "Self-assembly of \u03b2-sheet forming peptides into chiral fibrillar aggregates",
-      "authors": "Giovanni Bellesia and Joan-Emma Shea",
-      "journal": "Unknown journal",
-      "year": 2007,
-      "doi": "https://pubs.aip.org/aip/jcp/article/126/24/245104/296036",
-      "volume": "126"
     },
     {
       "title": "Physics-based computational and theoretical approaches to intrinsically disordered proteins",
@@ -314,9 +306,17 @@
       "pages": "219-225"
     },
     {
+      "title": "Self-assembly of \u03b2-sheet forming peptides into chiral fibrillar aggregates",
+      "authors": "Giovanni Bellesia and Joan-Emma Shea",
+      "journal": "The Journal of chemical physics",
+      "year": 2007,
+      "doi": "https://pubs.aip.org/aip/jcp/article/126/24/245104/296036",
+      "volume": "126"
+    },
+    {
       "title": "Simulations of protein aggregation: insights from atomistic and coarse-grained models",
       "authors": "Alex Morriss-Andrews and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry Letters",
       "year": 2014,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jz5006847",
       "volume": "5",
@@ -325,7 +325,7 @@
     {
       "title": "Role of \u03b2-hairpin formation in aggregation: the self-assembly of the amyloid-\u03b2 (25\u201335) peptide",
       "authors": "Luca Larini and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical journal",
       "year": 2012,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(12)00716-3?code=cell-site&mobileUi=0",
       "volume": "103",
@@ -334,7 +334,7 @@
     {
       "title": "Determination of biomembrane bending moduli in fully atomistic simulations",
       "authors": "Zachary A Levine and Richard M Venable and Max C Watson and Michael G Lerner and Joan-Emma Shea and Richard W Pastor and Frank LH Brown",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2014,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/ja507910r",
       "volume": "136",
@@ -343,7 +343,7 @@
     {
       "title": "Ion mobility spectrometry reveals the mechanism of amyloid formation of A\u03b2 (25\u201335) and its modulation by inhibitors at the molecular level: epigallocatechin gallate and scyllo-inositol",
       "authors": "Christian Bleiholder and Thanh D Do and Chun Wu and Nicholas J Economou and Summer S Bernstein and Steven K Buratto and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2013,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/ja406197f",
       "volume": "135",
@@ -352,7 +352,7 @@
     {
       "title": "Transmission coefficients, committors, and solvent coordinates in ion-pair dissociation",
       "authors": "Ryan Gotchy Mullen and Joan-Emma Shea and Baron Peters",
-      "journal": "Unknown journal",
+      "journal": "Journal of chemical theory and computation",
       "year": 2014,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/ct4009798",
       "volume": "10",
@@ -361,7 +361,7 @@
     {
       "title": "Structural similarities and differences between amyloidogenic and non-amyloidogenic islet amyloid polypeptide (IAPP) sequences and implications for the dual physiological and pathological activities of these peptides",
       "authors": "Chun Wu and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "PLoS computational biology",
       "year": 2013,
       "doi": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003211",
       "volume": "9",
@@ -370,7 +370,7 @@
     {
       "title": "Role of the familial Dutch mutation E22Q in the folding and aggregation of the 15\u201328 fragment of the Alzheimer amyloid-\u03b2 protein",
       "authors": "Andrij Baumketner and Mary Griffin Krone and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Proceedings of the National Academy of Sciences",
       "year": 2008,
       "doi": "https://www.pnas.org/doi/abs/10.1073/pnas.0708193105",
       "volume": "105",
@@ -379,7 +379,7 @@
     {
       "title": "Amyloid \u03b2-protein C-terminal fragments: Formation of cylindrins and \u03b2-barrels",
       "authors": "Thanh D Do and Nichole E LaPointe and Rebecca Nelson and Pascal Krotee and Eric Y Hayden and Brittany Ulrich and Sarah Quan and Stuart C Feinstein and David B Teplow and David Eisenberg and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2016,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jacs.5b09536",
       "volume": "138",
@@ -388,7 +388,7 @@
     {
       "title": "On the origin of the stronger binding of PIB over thioflavin T to protofibrils of the Alzheimer amyloid-\u03b2 peptide: a molecular dynamics study",
       "authors": "Chun Wu and Michael T Bowers and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical journal",
       "year": 2011,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(11)00143-3",
       "volume": "100",
@@ -397,7 +397,7 @@
     {
       "title": "Structural diversity of dimers of the Alzheimer amyloid-\u03b2 (25\u201335) peptide and polymorphism of the resulting fibrils",
       "authors": "Guanghong Wei and Andrew I Jewett and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Physical Chemistry Chemical Physics",
       "year": 2010,
       "doi": "https://pubs.rsc.org/en/content/articlehtml/2010/cp/c000755m",
       "volume": "12",
@@ -406,7 +406,7 @@
     {
       "title": "Exploring the space of protein folding Hamiltonians: The balance of forces in a minimalist \u03b2-barrel model",
       "authors": "Joan-Emma Shea and Yigal D Nochomovitz and Zhuyan Guo and Charles L Brooks III",
-      "journal": "Unknown journal",
+      "journal": "The Journal of chemical physics",
       "year": 1998,
       "doi": "https://pubs.aip.org/aip/jcp/article-abstract/109/7/2895/183066",
       "volume": "109",
@@ -415,7 +415,7 @@
     {
       "title": "The structure of A\u03b242 C-terminal fragments probed by a combined experimental and theoretical study",
       "authors": "Chun Wu and Megan M Murray and Summer L Bernstein and Margaret M Condron and Gal Bitan and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "Journal of Molecular Biology",
       "year": 2009,
       "doi": "https://www.sciencedirect.com/science/article/pii/S0022283609000734",
       "volume": "387",
@@ -424,7 +424,7 @@
     {
       "title": "Diversity of kinetic pathways in amyloid fibril formation",
       "authors": "Giovanni Bellesia and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of chemical physics",
       "year": 2009,
       "doi": "https://pubs.aip.org/aip/jcp/article/131/11/111102/976180",
       "volume": "131"
@@ -432,7 +432,7 @@
     {
       "title": "Surface force measurements and simulations of mussel-derived peptide adhesives on wet organic surfaces",
       "authors": "Zachary A Levine and Michael V Rapp and Wei Wei and Ryan Gotchy Mullen and Chun Wu and Gul H Zerze and Jeetain Mittal and J Herbert Waite and Jacob N Israelachvili and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Proceedings of the National Academy of Sciences",
       "year": 2016,
       "doi": "https://www.pnas.org/doi/abs/10.1073/pnas.1603065113",
       "volume": "113",
@@ -441,7 +441,7 @@
     {
       "title": "Double resolution model for studying TMAO/water effective interactions",
       "authors": "Luca Larini and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2013,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jp403635g",
       "volume": "117",
@@ -450,7 +450,7 @@
     {
       "title": "The proline-rich domain promotes Tau liquid\u2013liquid phase separation in cells",
       "authors": "Xuemei Zhang and Michael Vigers and James McCarty and Jennifer N Rauch and Glenn H Fredrickson and Maxwell Z Wilson and Joan-Emma Shea and Songi Han and Kenneth S Kosik",
-      "journal": "Unknown journal",
+      "journal": "Journal of Cell Biology",
       "year": 2020,
       "doi": "https://rupress.org/jcb/article-abstract/219/11/e202006054/152134",
       "volume": "219",
@@ -459,7 +459,7 @@
     {
       "title": "Resveratrol inhibits the formation of multiple-layered \u03b2-sheet oligomers of the human islet amyloid polypeptide segment 22\u201327",
       "authors": "Ping Jiang and Weifeng Li and Joan-Emma Shea and Yuguang Mu",
-      "journal": "Unknown journal",
+      "journal": "Biophysical Journal",
       "year": 2011,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(11)00198-6",
       "volume": "100",
@@ -468,7 +468,7 @@
     {
       "title": "Energetic frustration and the nature of the transition state in protein folding",
       "authors": "Joan-Emma Shea and Jos\u00e9 N Onuchic and Charles L Brooks III",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Chemical Physics",
       "year": 2000,
       "doi": "https://pubs.aip.org/aip/jcp/article-abstract/113/17/7663/3167538",
       "volume": "113",
@@ -477,7 +477,7 @@
     {
       "title": "Signature of an aggregation-prone conformation of tau",
       "authors": "Neil A Eschmann and Elka R Georgieva and Pritam Ganguly and Peter P Borbat and Maxime D Rappaport and Yasar Akdogan and Jack H Freed and Joan-Emma Shea and Songi Han",
-      "journal": "Unknown journal",
+      "journal": "Scientific Reports",
       "year": 2017,
       "doi": "https://www.nature.com/articles/srep44739",
       "volume": "7",
@@ -486,7 +486,7 @@
     {
       "title": "Heightened cold-denaturation of proteins at the ice\u2013water interface",
       "authors": "Andrea Arsiccio and James McCarty and Roberto Pisano and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2020,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jacs.9b13454",
       "volume": "142",
@@ -495,16 +495,25 @@
     {
       "title": "Effects of confinement and crowding on the thermodynamics and kinetics of folding of a minimalist \u03b2-barrel protein",
       "authors": "Miriam Friedel and Daniel J Sheeler and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of chemical physics",
       "year": 2003,
       "doi": "https://pubs.aip.org/aip/jcp/article-abstract/118/17/8106/185476",
       "volume": "118",
       "pages": "8106-8113"
     },
     {
+      "title": "Hydrophobicity of arginine leads to reentrant liquid-liquid phase separation behaviors of arginine-rich proteins",
+      "authors": "Yuri Hong and Saeed Najafi and Thomas Casey and Joan-Emma Shea and Song-I Han and Dong Soo Hwang",
+      "journal": "Nature communications",
+      "year": 2022,
+      "doi": "https://www.nature.com/articles/s41467-022-35001-1",
+      "volume": "13",
+      "pages": "7326"
+    },
+    {
       "title": "Reaction coordinates, one-dimensional Smoluchowski equations, and a test for dynamical self-consistency",
       "authors": "Baron Peters and Peter G Bolhuis and Ryan G Mullen and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of chemical physics",
       "year": 2013,
       "doi": "https://pubs.aip.org/aip/jcp/article/138/5/054106/193162",
       "volume": "138"
@@ -512,7 +521,7 @@
     {
       "title": "New insights into the mechanism of Alzheimer amyloid-\u03b2 fibrillogenesis inhibition by N-methylated peptides",
       "authors": "Patricia Soto and Mary A Griffin and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical Journal",
       "year": 2007,
       "doi": "https://www.cell.com/AJHG/fulltext/S0006-3495(07)71556-4",
       "volume": "93",
@@ -521,25 +530,16 @@
     {
       "title": "Folding landscapes of the Alzheimer amyloid-\u03b2 (12-28) peptide",
       "authors": "Andrij Baumketner and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Journal of molecular biology",
       "year": 2006,
       "doi": "https://www.sciencedirect.com/science/article/pii/S0022283606009028",
       "volume": "362",
       "pages": "567-579"
     },
     {
-      "title": "Hydrophobicity of arginine leads to reentrant liquid-liquid phase separation behaviors of arginine-rich proteins",
-      "authors": "Yuri Hong and Saeed Najafi and Thomas Casey and Joan-Emma Shea and Song-I Han and Dong Soo Hwang",
-      "journal": "Unknown journal",
-      "year": 2022,
-      "doi": "https://www.nature.com/articles/s41467-022-35001-1",
-      "volume": "13",
-      "pages": "7326"
-    },
-    {
       "title": "Mutual Exclusion of Urea and Trimethylamine N-Oxide from Amino Acids in Mixed Solvent Environment",
       "authors": "Pritam Ganguly and Timir Hajari and Joan-Emma Shea and Nico FA van der Vegt",
-      "journal": "Unknown journal",
+      "journal": "The journal of physical chemistry letters",
       "year": 2015,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jz502634k",
       "volume": "6",
@@ -548,7 +548,7 @@
     {
       "title": "A\u03b2 (39\u201342) modulates A\u03b2 oligomerization but not fibril formation",
       "authors": "Megan Murray Gessel and Chun Wu and Huiyuan Li and Gal Bitan and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "Biochemistry",
       "year": 2012,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/bi201520b",
       "volume": "51",
@@ -557,7 +557,7 @@
     {
       "title": "Reconstruction of the src-SH3 protein domain transition state ensemble using multiscale molecular dynamics simulations",
       "authors": "Feng Ding and Weihua Guo and Nikolay V Dokholyan and Eugene I Shakhnovich and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Journal of molecular biology",
       "year": 2005,
       "doi": "https://www.sciencedirect.com/science/article/pii/S0022283605005486",
       "volume": "350",
@@ -566,7 +566,7 @@
     {
       "title": "Defining the molecular basis of amyloid inhibitors: human islet amyloid polypeptide\u2013insulin interactions",
       "authors": "Anna C Susa and Chun Wu and Summer L Bernstein and Nicholas F Dupuis and Hui Wang and Daniel P Raleigh and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2014,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/ja504031d",
       "volume": "136",
@@ -575,7 +575,7 @@
     {
       "title": "Significant performance enhancement of polymer resins by bioinspired dynamic bonding",
       "authors": "Sungbaek Seo and Dong Woog Lee and Jin Soo Ahn and Keila Cunha and Emmanouela Filippidi and Sung Won Ju and Eeseul Shin and Byeong\u2010Su Kim and Zachary A Levine and Roberto D Lins and Jacob N Israelachvili and J Herbert Waite and Megan T Valentine and Joan Emma Shea and B Kollbe Ahn",
-      "journal": "Unknown journal",
+      "journal": "Advanced materials",
       "year": 2017,
       "doi": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.201703026",
       "volume": "29",
@@ -593,7 +593,7 @@
     {
       "title": "Oligomers of the prion protein fragment 106\u2212 126 are likely assembled from \u03b2-hairpins in solution, and methionine oxidation inhibits assembly without altering the peptide\u2019s monomeric conformation",
       "authors": "Megan Grabenauer and Chun Wu and Patricia Soto and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2010,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/ja905595k",
       "volume": "132",
@@ -602,7 +602,7 @@
     {
       "title": "Interactions between amyloid-\u03b2 and tau fragments promote aberrant aggregates: implications for amyloid toxicity",
       "authors": "Thanh D Do and Nicholas J Economou and Ali Chamas and Steven K Buratto and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2014,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jp506258g",
       "volume": "118",
@@ -620,7 +620,7 @@
     {
       "title": "Initiation of assembly of tau (273-284) and its \u0394K280 mutant: an experimental and computational study",
       "authors": "Luca Larini and Megan Murray Gessel and Nichole E LaPointe and Thanh D Do and Michael T Bowers and Stuart C Feinstein and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Physical Chemistry Chemical Physics",
       "year": 2013,
       "doi": "https://pubs.rsc.org/en/content/articlehtml/2013/cp/c3cp00063j",
       "volume": "15",
@@ -629,7 +629,7 @@
     {
       "title": "Molecular Structures of Quiescently Grown and Brain-Derived Polymorphic Fibrils of the Alzheimer Amyloid A\u03b29-40 Peptide: A Comparison to Agitated Fibrils",
       "authors": "Chun Wu and Michael T Bowers and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "PLoS computational biology",
       "year": 2010,
       "doi": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000693",
       "volume": "6",
@@ -647,7 +647,7 @@
     {
       "title": "What determines the structure and stability of KFFE monomers, dimers, and protofibrils?",
       "authors": "Giovanni Bellesia and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical journal",
       "year": 2009,
       "doi": "https://www.cell.com/AJHG/fulltext/S0006-3495(08)00113-6",
       "volume": "96",
@@ -656,7 +656,7 @@
     {
       "title": "Amyloid \u03b2-protein: Experiment and theory on the 21\u2212 30 fragment",
       "authors": "Megan M Murray and Mary Griffin Krone and Summer L Bernstein and Andrij Baumketner and Margaret M Condron and Noel D Lazo and David B Teplow and Thomas Wyttenbach and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2009,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jp808384x",
       "volume": "113",
@@ -665,7 +665,7 @@
     {
       "title": "Small ion effects on self-coacervation phenomena in block polyampholytes",
       "authors": "Scott PO Danielsen and James McCarty and Joan-Emma Shea and Kris T Delaney and Glenn H Fredrickson",
-      "journal": "Unknown journal",
+      "journal": "The Journal of chemical physics",
       "year": 2019,
       "doi": "https://pubs.aip.org/aip/jcp/article/151/3/034904/198456",
       "volume": "151"
@@ -673,7 +673,7 @@
     {
       "title": "Liquid\u2013liquid phase separation of Tau by self and complex coacervation",
       "authors": "Saeed Najafi and Yanxian Lin and Andrew P Longhini and Xuemei Zhang and Kris T Delaney and Kenneth S Kosik and Glenn H Fredrickson and Joan\u2010Emma Shea and Songi Han",
-      "journal": "Unknown journal",
+      "journal": "Protein Science",
       "year": 2021,
       "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.4101",
       "volume": "30",
@@ -682,7 +682,7 @@
     {
       "title": "Free energy landscapes for amyloidogenic tetrapeptides dimerization",
       "authors": "A Baumketner and J-E Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical journal",
       "year": 2005,
       "doi": "https://www.cell.com/fulltext/S0006-3495(05)72797-1",
       "volume": "89",
@@ -691,7 +691,7 @@
     {
       "title": "Hydrophobic association in mixed urea\u2013TMAO solutions",
       "authors": "Pritam Ganguly and Nico FA van der Vegt and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The journal of physical chemistry letters",
       "year": 2016,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.6b01344",
       "volume": "7",
@@ -700,7 +700,7 @@
     {
       "title": "Fokker\u2212 Planck Equation and Langevin Equation for One Brownian Particle in a Nonequilibrium Bath",
       "authors": "Joan-Emma Shea and Irwin Oppenheim",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry",
       "year": 1996,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jp961605d",
       "volume": "100",
@@ -718,7 +718,7 @@
     {
       "title": "Analysis of the amyloidogenic potential of pufferfish (Takifugu rubripes) islet amyloid polypeptide highlights the limitations of thioflavin-T assays and the difficulties in defining amyloidogenicity",
       "authors": "Amy G Wong and Chun Wu and Eleni Hannaberry and Matthew D Watson and Joan-Emma Shea and Daniel P Raleigh",
-      "journal": "Unknown journal",
+      "journal": "Biochemistry",
       "year": 2016,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.biochem.5b01107",
       "volume": "55",
@@ -727,7 +727,7 @@
     {
       "title": "Phospholipid chain interactions with cholesterol drive domain formation in lipid membranes",
       "authors": "WF Drew Bennett and Joan-Emma Shea and D Peter Tieleman",
-      "journal": "Unknown journal",
+      "journal": "Biophysical Journal",
       "year": 2018,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(18)30468-5",
       "volume": "114",
@@ -736,7 +736,7 @@
     {
       "title": "Mechanism of C-terminal fragments of amyloid \u03b2-protein as A\u03b2 inhibitors: do C-terminal interactions play a key role in their inhibitory activity?",
       "authors": "Xueyun Zheng and Chun Wu and Deyu Liu and Huiyuan Li and Gal Bitan and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2016,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.5b08177",
       "volume": "120",
@@ -745,7 +745,7 @@
     {
       "title": "Effect of surfactants on surface-induced denaturation of proteins: evidence of an orientation-dependent mechanism",
       "authors": "Andrea Arsiccio and James McCarty and Roberto Pisano and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2018,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.8b07368",
       "volume": "122",
@@ -754,7 +754,7 @@
     {
       "title": "Stability of a protein tethered to a surface",
       "authors": "Miriam Friedel and Andrij Baumketner and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of chemical physics",
       "year": 2007,
       "doi": "https://pubs.aip.org/aip/jcp/article/126/9/095101/925610",
       "volume": "126"
@@ -762,7 +762,7 @@
     {
       "title": "Easy transition path sampling methods: Flexible-length aimless shooting and permutation shooting",
       "authors": "Ryan Gotchy Mullen and Joan-Emma Shea and Baron Peters",
-      "journal": "Unknown journal",
+      "journal": "Journal of chemical theory and computation",
       "year": 2015,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b00032",
       "volume": "11",
@@ -771,7 +771,7 @@
     {
       "title": "Posttransition state desolvation of the hydrophobic core of the src-SH3 protein domain",
       "authors": "Weihua Guo and Sotiria Lampoudi and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical journal",
       "year": 2003,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(03)74454-3",
       "volume": "85",
@@ -780,7 +780,7 @@
     {
       "title": "Communication: An existence test for dividing surfaces without recrossing",
       "authors": "Ryan Gotchy Mullen and Joan-Emma Shea and Baron Peters",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Chemical Physics",
       "year": 2014,
       "doi": "https://pubs.aip.org/aip/jcp/article/140/4/041104/72548",
       "volume": "140"
@@ -788,7 +788,7 @@
     {
       "title": "Sequence periodicity and secondary structure propensity in model proteins",
       "authors": "Giovanni Bellesia and Andrew Iain Jewett and Joan\u2010Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Protein Science",
       "year": 2010,
       "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.288",
       "volume": "19",
@@ -797,7 +797,7 @@
     {
       "title": "A coarse-grained model for peptide aggregation on a membrane surface",
       "authors": "Alex Morriss-Andrews and Frank LH Brown and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2014,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jp502871m",
       "volume": "118",
@@ -806,7 +806,7 @@
     {
       "title": "Effects of pH and charge state on peptide assembly: the YVIFL model system",
       "authors": "Thanh D Do and Nichole E LaPointe and Nicholas J Economou and Steven K Buratto and Stuart C Feinstein and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2013,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jp406066d",
       "volume": "117",
@@ -815,7 +815,7 @@
     {
       "title": "Fokker-Planck equation and non-linear hydrodynamic equations of a system of several Brownian particles in a non-equilibrium bath",
       "authors": "Joan-Emma Shea and Irwin Oppenheim",
-      "journal": "Unknown journal",
+      "journal": "Physica A: Statistical Mechanics and its Applications",
       "year": 1997,
       "doi": "https://www.sciencedirect.com/science/article/pii/S037843719700407X",
       "volume": "247",
@@ -824,7 +824,7 @@
     {
       "title": "The influence of different treatments of electrostatic interactions on the thermodynamics of folding of peptides",
       "authors": "Andrij Baumketner and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2005,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jp051325a",
       "volume": "109",
@@ -833,7 +833,7 @@
     {
       "title": "Tau aggregation propensity engrained in its solution state",
       "authors": "Neil A Eschmann and Thanh D Do and Nichole E LaPointe and Joan-Emma Shea and Stuart C Feinstein and Michael T Bowers and Songi Han",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2015,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.5b08092",
       "volume": "119",
@@ -842,7 +842,7 @@
     {
       "title": "Catechol and HCl Adsorption on TiO2(110) in Vacuum and at the Water\u2013TiO2 Interface",
       "authors": "Henrik H Kristoffersen and Joan-Emma Shea and Horia Metiu",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry Letters",
       "year": 2015,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5b00958",
       "volume": "6",
@@ -851,7 +851,7 @@
     {
       "title": "Computational and experimental analyses reveal the essential roles of interdomain linkers in the biological function of chemotaxis histidine kinase CheA",
       "authors": "Xiqing Wang and Chun Wu and Anh Vu and Joan-Emma Shea and Frederick W Dahlquist",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2012,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/ja3056694",
       "volume": "134",
@@ -860,7 +860,7 @@
     {
       "title": "Folding on the chaperone: yield enhancement through loose binding",
       "authors": "AI Jewett and J-E Shea",
-      "journal": "Unknown journal",
+      "journal": "Journal of molecular biology",
       "year": 2006,
       "doi": "https://www.sciencedirect.com/science/article/pii/S0022283606010680",
       "volume": "363",
@@ -869,7 +869,7 @@
     {
       "title": "The linker between the dimerization and catalytic domains of the CheA histidine kinase propagates changes in structure and dynamics that are important for enzymatic activity",
       "authors": "Xiqing Wang and Pramodh Vallurupalli and Anh Vu and Kwangwoon Lee and Sheng Sun and Wen-Ju Bai and Chun Wu and Hongjun Zhou and Joan-Emma Shea and Lewis E Kay and Frederick W Dahlquist",
-      "journal": "Unknown journal",
+      "journal": "Biochemistry",
       "year": 2014,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/bi4012379",
       "volume": "53",
@@ -878,7 +878,7 @@
     {
       "title": "Self-assembly of peptides into a \u03b2-barrel motif",
       "authors": "Miriam Friedel and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of chemical physics",
       "year": 2004,
       "doi": "https://pubs.aip.org/aip/jcp/article-abstract/120/12/5809/148621",
       "volume": "120",
@@ -887,7 +887,7 @@
     {
       "title": "Molecularly smooth self-assembled monolayer for high-mobility organic field-effect transistors",
       "authors": "Saurabh Das and Byoung Hoon Lee and Roscoe TH Linstadt and Keila Cunha and Youli Li and Yair Kaufman and Zachary A Levine and Bruce H Lipshutz and Roberto D Lins and Joan-Emma Shea and Alan J Heeger and B Kollbe Ahn",
-      "journal": "Unknown journal",
+      "journal": "Nano letters",
       "year": 2016,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.6b03860",
       "volume": "16",
@@ -896,7 +896,7 @@
     {
       "title": "\u03b2-sheet propensity controls the kinetic pathways and morphologies of seeded peptide aggregation",
       "authors": "Alex Morriss-Andrews and Giovanni Bellesia and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Chemical Physics",
       "year": 2012,
       "doi": "https://pubs.aip.org/aip/jcp/article/137/14/145104/191373",
       "volume": "137"
@@ -904,7 +904,7 @@
     {
       "title": "Aggregation of polyalanine in a hydrophobic environment",
       "authors": "Patricia Soto and Andrij Baumketner and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of chemical physics",
       "year": 2006,
       "doi": "https://pubs.aip.org/aip/jcp/article/124/13/134904/186292",
       "volume": "124"
@@ -912,7 +912,7 @@
     {
       "title": "Probing the structural hierarchy and energy landscape of an RNA T-loop hairpin",
       "authors": "Zhuoyun Zhuang and Luc Jaeger and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Nucleic Acids Research",
       "year": 2007,
       "doi": "https://academic.oup.com/nar/article-abstract/35/20/6995/2400704",
       "volume": "35",
@@ -921,7 +921,7 @@
     {
       "title": "Folding of the 25 residue A\u03b2 (12\u2212 36) peptide in TFE/water: temperature-dependent transition from a funneled free-energy landscape to a rugged one",
       "authors": "Narutoshi Kamiya and Daisuke Mitomo and Joan-Emma Shea and Junichi Higo",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2007,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jp067075v",
       "volume": "111",
@@ -930,7 +930,7 @@
     {
       "title": "Human islet amyloid polypeptide N-terminus fragment self-assembly: effect of conserved disulfide bond on aggregation propensity",
       "authors": "Alexandre I Ilitchev and Maxwell J Giammona and Thanh D Do and Amy G Wong and Steven K Buratto and Joan-Emma Shea and Daniel P Raleigh and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Society for Mass Spectrometry",
       "year": 2016,
       "doi": "https://pubs.acs.org/doi/abs/10.1007/s13361-016-1347-7",
       "volume": "27",
@@ -939,7 +939,7 @@
     {
       "title": "The right angle (RA) motif: a prevalent ribosomal RNA structural pattern found in group I introns",
       "authors": "Wade W Grabow and Zhuoyun Zhuang and Zoe N Swank and Joan-Emma Shea and Luc Jaeger",
-      "journal": "Unknown journal",
+      "journal": "Journal of molecular biology",
       "year": 2012,
       "doi": "https://www.sciencedirect.com/science/article/pii/S0022283612007620",
       "volume": "424",
@@ -948,7 +948,7 @@
     {
       "title": "Kinetic pathways to peptide aggregation on surfaces: The effects of \u03b2-sheet propensity and surface attraction",
       "authors": "Alex Morriss-Andrews and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Chemical Physics",
       "year": 2012,
       "doi": "https://pubs.aip.org/aip/jcp/article/136/6/065103/191961",
       "volume": "136"
@@ -956,7 +956,7 @@
     {
       "title": "Overhauser dynamic nuclear polarization and molecular dynamics simulations using pyrroline and piperidine ring nitroxide radicals",
       "authors": "Brandon D Armstrong and Patricia Soto and Joan-Emma Shea and Songi Han",
-      "journal": "Unknown journal",
+      "journal": "Journal of Magnetic Resonance",
       "year": 2009,
       "doi": "https://www.sciencedirect.com/science/article/pii/S1090780709001529",
       "volume": "200",
@@ -965,7 +965,7 @@
     {
       "title": "Opposing Effects of Cucurbit[7]uril and 1,2,3,4,6-Penta-O-galloyl-\u03b2-d-glucopyranose on Amyloid \u03b225\u201335 Assembly",
       "authors": "Nat\u00e1lia EC de Almeida and Thanh D Do and Michael Tro and Nichole E LaPointe and Stuart C Feinstein and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "ACS chemical neuroscience",
       "year": 2016,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acschemneuro.5b00280",
       "volume": "7",
@@ -974,7 +974,7 @@
     {
       "title": "Trp-cage folding on organic surfaces",
       "authors": "Zachary A Levine and Sean A Fischer and Joan-Emma Shea and Jim Pfaendtner",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2015,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.5b04213",
       "volume": "119",
@@ -983,7 +983,7 @@
     {
       "title": "Effects of surface interactions on peptide aggregate morphology",
       "authors": "Alex Morriss-Andrews and Giovanni Bellesia and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of chemical physics",
       "year": 2011,
       "doi": "https://pubs.aip.org/aip/jcp/article/135/8/085102/72336",
       "volume": "135"
@@ -991,7 +991,7 @@
     {
       "title": "A hybrid MD-kMC algorithm for folding proteins in explicit solvent",
       "authors": "Emanuel Karl Peter and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Physical Chemistry Chemical Physics",
       "year": 2014,
       "doi": "https://pubs.rsc.org/en/content/articlehtml/2014/cp/c3cp55251a",
       "volume": "16",
@@ -1000,7 +1000,7 @@
     {
       "title": "Temperature dependence of the free energy landscape of the src\u2010SH3 protein domain",
       "authors": "Weihua Guo and Sotiria Lampoudi and Joan\u2010Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Proteins: Structure, Function, and Bioinformatics",
       "year": 2004,
       "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.20053",
       "volume": "55",
@@ -1009,7 +1009,7 @@
     {
       "title": "Fokker\u2013Planck and non-linear hydrodynamic equations of an inelastic system of several Brownian particles in a non-equilibrium bath",
       "authors": "Joan-Emma Shea and Irwin Oppenheim",
-      "journal": "Unknown journal",
+      "journal": "Physica A: Statistical Mechanics and its Applications",
       "year": 1998,
       "doi": "https://www.sciencedirect.com/science/article/pii/S0378437197005360",
       "volume": "250",
@@ -1018,7 +1018,7 @@
     {
       "title": "The effect of surface tethering on the folding of the src-SH3 protein domain",
       "authors": "Zhuoyun Zhuang and Andrew I Jewett and Patricia Soto and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Physical biology",
       "year": 2009,
       "doi": "https://iopscience.iop.org/article/10.1088/1478-3975/6/1/015004/meta",
       "volume": "6",
@@ -1027,7 +1027,7 @@
     {
       "title": "Energetics of infinite homopolypeptide chains: A new look at commonly used force fields",
       "authors": "Evgeni Penev and Joel Ireta and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2008,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jp800058f",
       "volume": "112",
@@ -1036,7 +1036,7 @@
     {
       "title": "Distinct and nonadditive effects of urea and guanidinium chloride on peptide solvation",
       "authors": "Pritam Ganguly and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry Letters",
       "year": 2019,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03004",
       "volume": "10",
@@ -1045,7 +1045,7 @@
     {
       "title": "1, 2, 3, 4, 6-penta-O-galloyl-\u03b2-d-glucopyranose binds to the N-terminal metal binding region to inhibit amyloid \u03b2-protein oligomer and fibril formation",
       "authors": "Nat\u00e1lia EC de Almeida and Thanh D Do and Nichole E LaPointe and Michael Tro and Stuart C Feinstein and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "International journal of mass spectrometry",
       "year": 2017,
       "doi": "https://www.sciencedirect.com/science/article/pii/S1387380616301932",
       "volume": "420",
@@ -1054,7 +1054,7 @@
     {
       "title": "Aggregation of chameleon peptides: Implications of \u03b1-helicity in fibril formation",
       "authors": "Bongkeun Kim and Thanh D Do and Eric Y Hayden and David B Teplow and Michael T Bowers and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2016,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b00830",
       "volume": "120",
@@ -1063,7 +1063,7 @@
     {
       "title": "To what extent does surface hydrophobicity dictate peptide folding and stability near surfaces?",
       "authors": "Gu\u0308l H Zerze and Ryan G Mullen and Zachary A Levine and Joan-Emma Shea and Jeetain Mittal",
-      "journal": "Unknown journal",
+      "journal": "Langmuir",
       "year": 2015,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.5b03814",
       "volume": "31",
@@ -1081,7 +1081,7 @@
     {
       "title": "Dueling backbones: comparing peptoid and peptide analogues of a mussel adhesive protein",
       "authors": "William R Wonderly and Thomas R Cristiani and Keila C Cunha and George D Degen and Joan-Emma Shea and J Herbert Waite",
-      "journal": "Unknown journal",
+      "journal": "Macromolecules",
       "year": 2020,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.macromol.9b02715",
       "volume": "53",
@@ -1090,7 +1090,7 @@
     {
       "title": "Terminal capping of an amyloidogenic tau fragment modulates its fibrillation propensity",
       "authors": "Shruti Arya and Pritam Ganguly and Andrea Arsiccio and Sarah L Claud and Benjamin Trapp and Grace E Schonfeld and Xikun Liu and Kristi Lazar Cantrell and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2020,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.0c05768",
       "volume": "124",
@@ -1099,7 +1099,7 @@
     {
       "title": "The mitochondrial peptide humanin targets but does not denature amyloid oligomers in type II diabetes",
       "authors": "Zachary A Levine and Kazuki Teranishi and Alan K Okada and Ralf Langen and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2019,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jacs.9b04995",
       "volume": "141",
@@ -1108,7 +1108,7 @@
     {
       "title": "Assisted peptide folding by surface pattern recognition",
       "authors": "Zhuoyun Zhuang and Andrew I Jewett and Silvan Kuttimalai and Giovanni Bellesia and S Gnanakaran and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical journal",
       "year": 2011,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(11)00038-5",
       "volume": "100",
@@ -1126,7 +1126,7 @@
     {
       "title": "On the origins of the weak folding cooperativity of a designed \u03b2\u03b2\u03b1 ultrafast protein FSD-1",
       "authors": "Chun Wu and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "PLoS computational biology",
       "year": 2010,
       "doi": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000998",
       "volume": "6",
@@ -1135,7 +1135,7 @@
     {
       "title": "TiReX: Replica-exchange molecular dynamics using Tinker",
       "authors": "Evgeni S Penev and Sotiria Lampoudi and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Computer Physics Communications",
       "year": 2009,
       "doi": "https://www.sciencedirect.com/science/article/pii/S0010465509001866",
       "volume": "180",
@@ -1144,7 +1144,7 @@
     {
       "title": "The thermodynamics of folding of a \u03b2 hairpin peptide probed through replica exchange molecular dynamics simulations",
       "authors": "Andrij Baumketner and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Theoretical Chemistry Accounts",
       "year": 2006,
       "doi": "https://link.springer.com/article/10.1007/s00214-005-0041-9",
       "volume": "116",
@@ -1153,7 +1153,7 @@
     {
       "title": "ADD force field for sugars and polyols: Predicting the additivity of protein\u2013osmolyte interaction",
       "authors": "Andrea Arsiccio and Pritam Ganguly and Lorenzo La Cortiglia and Joan-Emma Shea and Roberto Pisano",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2020,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.0c05345",
       "volume": "124",
@@ -1162,7 +1162,7 @@
     {
       "title": "Coarse-grained modeling of simple molecules at different resolutions in the absence of good sampling",
       "authors": "Luca Larini and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2012,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jp2097263",
       "volume": "116",
@@ -1171,7 +1171,7 @@
     {
       "title": "Glass transition in an off-lattice protein model studied by molecular dynamics simulations",
       "authors": "A Baumketner and J-E Shea and Yasuaki Hiwatari",
-      "journal": "Unknown journal",
+      "journal": "Physical Review E",
       "year": 2003,
       "doi": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.67.011912",
       "volume": "67",
@@ -1180,7 +1180,7 @@
     {
       "title": "Cosolvent Exclusion Drives Protein Stability in Trimethylamine N-Oxide and Betaine Solutions",
       "authors": "Pritam Ganguly and Dominik Bub\u00e1k and Jakub Pol\u00e1k and Patrik Fagan and Martin Drac\u030ci\u0301nsky\u0301 and Nico FA van der Vegt and Jan Heyda and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry Letters",
       "year": 2022,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.2c01692",
       "volume": "13",
@@ -1189,7 +1189,7 @@
     {
       "title": "Tachykinin neuropeptides and amyloid \u03b2 (25\u201335) assembly: Friend or foe?",
       "authors": "Xikun Liu and Pritam Ganguly and Yingying Jin and Michael J Jhatro and Joan-Emma Shea and Steven K Buratto and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2022,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jacs.2c03845",
       "volume": "144",
@@ -1198,7 +1198,7 @@
     {
       "title": "Studying the early stages of protein aggregation using replica exchange molecular dynamics simulations",
       "authors": "Joan-Emma Shea and Zachary A Levine",
-      "journal": "Unknown journal",
+      "journal": "Protein Amyloid Aggregation: Methods and Protocols",
       "year": 2016,
       "doi": "https://link.springer.com/protocol/10.1007/978-1-4939-2978-8_15",
       "pages": "225-250"
@@ -1215,7 +1215,7 @@
     {
       "title": "Do chaperonins boost protein yields by accelerating folding or preventing aggregation?",
       "authors": "AI Jewett and J-E Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical Journal",
       "year": 2008,
       "doi": "https://www.cell.com/fulltext/S0006-3495(08)70456-9",
       "volume": "94",
@@ -1224,7 +1224,7 @@
     {
       "title": "Pressure unfolding of proteins: New insights into the role of bound water",
       "authors": "Andrea Arsiccio and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2021,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c04398",
       "volume": "125",
@@ -1233,7 +1233,7 @@
     {
       "title": "Relative stability of de novo four\u2013helix bundle proteins: Insights from coarse grained molecular simulations",
       "authors": "Giovanni Bellesia and Andrew I Jewett and Joan\u2013Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Protein Science",
       "year": 2011,
       "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.605",
       "volume": "20",
@@ -1242,7 +1242,7 @@
     {
       "title": "Effects of frustration, confinement, and surface interactions on the dimerization of an off-lattice \u03b2-barrel protein",
       "authors": "Mary A Griffin and Miriam Friedel and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of chemical physics",
       "year": 2005,
       "doi": "https://pubs.aip.org/aip/jcp/article/123/17/174707/917445",
       "volume": "123"
@@ -1250,7 +1250,7 @@
     {
       "title": "Kinetics of the coil-to-helix transition on a rough energy landscape",
       "authors": "A Baumketner and J-E Shea",
-      "journal": "Unknown journal",
+      "journal": "Physical Review E",
       "year": 2003,
       "doi": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.68.051901",
       "volume": "68",
@@ -1259,7 +1259,7 @@
     {
       "title": "Catalytic cross talk between key peptide fragments that couple Alzheimer\u2019s disease with amyotrophic lateral sclerosis",
       "authors": "Veronica Laos and Dezmond Bishop and Pritam Ganguly and Grace Schonfeld and Ellen Trapp and Kristi Lazar Cantrell and Steven K Buratto and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2021,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jacs.0c12729",
       "volume": "143",
@@ -1268,7 +1268,7 @@
     {
       "title": "Molecular context of dopa influences adhesion of mussel-inspired peptides",
       "authors": "George D Degen and Keila C Cunha and Zachary A Levine and J Herbert Waite and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2021,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c05218",
       "volume": "125",
@@ -1277,7 +1277,7 @@
     {
       "title": "Force field parameterization for the description of the interactions between hydroxypropyl-\u03b2-cyclodextrin and proteins",
       "authors": "Andrea Arsiccio and Marcello Rospiccio and Joan-Emma Shea and Roberto Pisano",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2021,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c04033",
       "volume": "125",
@@ -1286,7 +1286,7 @@
     {
       "title": "Conformational investigation of the structure\u2013activity relationship of GdFFD and its analogues on an achatin-like neuropeptide receptor of Aplysia californica involved in the feeding circuit",
       "authors": "Thanh D Do and James W Checco and Michael Tro and Joan-Emma Shea and Michael T Bowers and Jonathan V Sweedler",
-      "journal": "Unknown journal",
+      "journal": "Physical Chemistry Chemical Physics",
       "year": 2018,
       "doi": "https://pubs.rsc.org/en/content/articlehtml/2018/cp/c8cp03661f",
       "volume": "20",
@@ -1295,7 +1295,7 @@
     {
       "title": "A kMC-MD method with generalized move-sets for the simulation of folding of \u03b1-helical and \u03b2-stranded peptides",
       "authors": "Emanuel K Peter and Igor V Pivkin and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of chemical physics",
       "year": 2015,
       "doi": "https://pubs.aip.org/aip/jcp/article/142/14/144903/900202",
       "volume": "142"
@@ -1303,7 +1303,7 @@
     {
       "title": "Protein cold denaturation in implicit solvent simulations: A transfer free energy approach",
       "authors": "Andrea Arsiccio and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2021,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.1c01694",
       "volume": "125",
@@ -1312,7 +1312,7 @@
     {
       "title": "How water layers on graphene affect folding and adsorption of TrpZip2",
       "authors": "Emanuel K Peter and Mrigya Agarwal and BongKeun Kim and Igor V Pivkin and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of chemical physics",
       "year": 2014,
       "doi": "https://pubs.aip.org/aip/jcp/article/141/22/22D511/685685",
       "volume": "141"
@@ -1328,7 +1328,7 @@
     {
       "title": "Coarse kMC-based replica exchange algorithms for the accelerated simulation of protein folding in explicit solvent",
       "authors": "Emanuel K Peter and Joan-Emma Shea and Igor V Pivkin",
-      "journal": "Unknown journal",
+      "journal": "Physical Chemistry Chemical Physics",
       "year": 2016,
       "doi": "https://pubs.rsc.org/en/content/articlehtml/2016/cp/c5cp06867c",
       "volume": "18",
@@ -1337,7 +1337,7 @@
     {
       "title": "Systematic derivation of implicit solvent models for the study of polymer collapse",
       "authors": "Bin Song and Nathaniel Charest and Herbert Alexander Morriss\u2010Andrews and Valeria Molinero and Joan\u2010Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Journal of Computational Chemistry",
       "year": 2017,
       "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.24754",
       "volume": "38",
@@ -1346,7 +1346,7 @@
     {
       "title": "Latent models of molecular dynamics data: Automatic order parameter generation for peptide fibrillization",
       "authors": "Nathaniel Charest and Michael Tro and Michael T Bowers and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2020,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.0c05763",
       "volume": "124",
@@ -1355,7 +1355,7 @@
     {
       "title": "CORE-MD, a path correlated molecular dynamics simulation method",
       "authors": "Emanuel K Peter and Joan-Emma Shea and Alexander Schug",
-      "journal": "Unknown journal",
+      "journal": "The journal of chemical physics",
       "year": 2020,
       "doi": "https://pubs.aip.org/aip/jcp/article/153/8/084114/1061797",
       "volume": "153"
@@ -1363,7 +1363,7 @@
     {
       "title": "Elucidation of the Aggregation Pathways of Helix\u2013Turn\u2013Helix Peptides: Stabilization at the Turn Region Is Critical for Fibril Formation",
       "authors": "Thanh D Do and Ali Chamas and Xueyun Zheng and Aaron Barnes and Dayna Chang and Tjitske Veldstra and Harmeet Takhar and Nicolette Dressler and Benjamin Trapp and Kylie Miller and Audrene McMahon and Stephen C Meredith and Joan-Emma Shea and Kristi Lazar Cantrell and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "Biochemistry",
       "year": 2015,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.biochem.5b00414",
       "volume": "54",
@@ -1372,7 +1372,7 @@
     {
       "title": "Improved theoretical description of protein folding kinetics from rotations in the phase space of relevant order parameters",
       "authors": "A Baumketner and J-E Shea and Y Hiwatari",
-      "journal": "Unknown journal",
+      "journal": "The Journal of chemical physics",
       "year": 2004,
       "doi": "https://pubs.aip.org/aip/jcp/article-abstract/121/2/1114/531681",
       "volume": "121",
@@ -1381,7 +1381,7 @@
     {
       "title": "Competition between \u03b2-sheet and coacervate domains yields diverse morphologies in mixtures of oppositely charged homochiral polypeptides",
       "authors": "Nairiti J Sinha and Keila Cristina Cunha and Robert Murphy and Craig J Hawker and Joan-Emma Shea and Matthew E Helgeson",
-      "journal": "Unknown journal",
+      "journal": "Biomacromolecules",
       "year": 2023,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.biomac.3c00361",
       "volume": "24",
@@ -1390,7 +1390,7 @@
     {
       "title": "Thermodynamic modeling and experimental data reveal that sugars stabilize proteins according to an excluded volume mechanism",
       "authors": "Andrea Arsiccio and Tim Sarter and Ilaria Polidori and Gerhard Winter and Roberto Pisano and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Journal of the American Chemical Society",
       "year": 2023,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/jacs.3c04293",
       "volume": "145",
@@ -1399,7 +1399,7 @@
     {
       "title": "An adaptive bias\u2013hybrid MD/kMC algorithm for protein folding and aggregation",
       "authors": "Emanuel K Peter and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Physical Chemistry Chemical Physics",
       "year": 2017,
       "doi": "https://pubs.rsc.org/en/content/articlehtml/2017/cp/c7cp03035e",
       "volume": "19",
@@ -1417,7 +1417,7 @@
     {
       "title": "Precision proteoform design for 4R tau isoform selective templated aggregation",
       "authors": "Andrew P Longhini and Austin DuBose and Samuel Lobo and Vishnu Vijayan and Yeran Bai and Erica Keane Rivera and Julia Sala-Jarque and Arina Nikitina and Daniel C Carrettiero and Matthew T Unger and Olivia R Sclafani and Valerie Fu and Emily R Beckett and Michael Vigers and Luc Bu\u00e9e and Isabelle Landrieu and Scott Shell and Joan E Shea and Songi Han and Kenneth S Kosik",
-      "journal": "Unknown journal",
+      "journal": "Proceedings of the National Academy of Sciences",
       "year": 2024,
       "doi": "https://www.pnas.org/doi/abs/10.1073/pnas.2320456121",
       "volume": "121",
@@ -1426,7 +1426,7 @@
     {
       "title": "Spontaneous Transition of Spherical Coacervate to Vesicle\u2010Like Compartment",
       "authors": "Hyunsuk Choi and Yuri Hong and Saeed Najafi and Sun Young Kim and Joan\u2010Emma Shea and Dong Soo Hwang and Yoo Seong Choi",
-      "journal": "Unknown journal",
+      "journal": "Advanced Science",
       "year": 2024,
       "doi": "https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202305978",
       "volume": "11",
@@ -1435,7 +1435,7 @@
     {
       "title": "Tau P301L mutation promotes core 4R tauopathy fibril fold through near-surface water structuring and conformational rearrangement",
       "authors": "Michael P Vigers and Samuel Lobo and Saeed Najafi and Austin Dubose and Karen Tsay and Pritam Ganguly and Andrew P Longhini and Yingying Jin and Steven K Buratto and Kenneth S Kosik and M Scott Shell and Joan-Emma Shea and Songi Han",
-      "journal": "Unknown journal",
+      "journal": "bioRxiv",
       "year": 2023,
       "doi": "https://www.biorxiv.org/content/10.1101/2023.11.28.568818.abstract",
       "pages": "2023.11. 28.568818"
@@ -1443,7 +1443,7 @@
     {
       "title": "A Transfer Free Energy Based Implicit Solvent Model for Protein Simulations in Solvent Mixtures: Urea-Induced Denaturation as a Case Study",
       "authors": "Andrea Arsiccio and Pritam Ganguly and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2022,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.2c00889",
       "volume": "126",
@@ -1461,7 +1461,7 @@
     {
       "title": "The classifying autoencoder: gaining insight into amyloid assembly of peptides and proteins",
       "authors": "Michael J Tro and Nathaniel Charest and Zachary Taitz and Joan-Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2019,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.9b03415",
       "volume": "123",
@@ -1470,7 +1470,7 @@
     {
       "title": "Resveratrol inhibits the formation of multiple-layered beta-sheet oligomers of the human islet amyloid polypeptide segment 22-27 (vol 100, pg 1550, 2011)",
       "authors": "Ping Jiang and Weifeng Li and Joan-Emma Shea and Yuguang Mu",
-      "journal": "Unknown journal",
+      "journal": "Biophysical Journal",
       "year": 2011,
       "doi": "https://scholar.google.com/scholar?cluster=7329422166160092619&hl=en&oi=scholarr",
       "volume": "100",
@@ -1479,7 +1479,7 @@
     {
       "title": "Structure and stability of amyloid fibrils formed from synthetic beta-peptides",
       "authors": "Giovanni Bellesia and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Frontiers in Bioscience",
       "year": 2008,
       "doi": "https://article.imrpress.com/bri/Landmark/articles/pdf/Landmark3202.pdf",
       "volume": "13",
@@ -1488,7 +1488,7 @@
     {
       "title": "Computational Methods in Nanostructure Design: Replica Exchange Simulations of Self-Assembling Peptides",
       "authors": "Giovanni Bellesia and Sotiria Lampoudi and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Nanostructure Design: Methods and Protocols",
       "year": 2008,
       "doi": "https://link.springer.com/protocol/10.1007/978-1-59745-480-3_9",
       "pages": "133-151"
@@ -1496,7 +1496,7 @@
     {
       "title": "A canonical replica exchange molecular dynamics implementation with normal pressure in each replica",
       "authors": "Emanuel K Peter and Igor V Pivkin and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of chemical physics",
       "year": 2016,
       "doi": "https://pubs.aip.org/aip/jcp/article/145/4/044903/196034",
       "volume": "145"
@@ -1504,7 +1504,7 @@
     {
       "title": "Bridge-rich and loop-less hydrogel networks through suppressed micellization of multiblock polyelectrolytes",
       "authors": "Jihoon Han and Saeed Najafi and Youyoung Byun and Lester Geonzon and Seung-Hwan Oh and Jiwon Park and Jun Mo Koo and Jehan Kim and Taehun Chung and Im Kyung Han and Suhun Chae and Dong Woo Cho and Jinah Jang and Unyong Jeong and Glenn H Fredrickson and Soo-Hyung Choi and Koichi Mayumi and Eunji Lee and Joan-Emma Shea and Youn Soo Kim",
-      "journal": "Unknown journal",
+      "journal": "Nature Communications",
       "year": 2024,
       "doi": "https://www.nature.com/articles/s41467-024-50902-z",
       "volume": "15",
@@ -1513,7 +1513,7 @@
     {
       "title": "CORE-MD II: A fast, adaptive, and accurate enhanced sampling method",
       "authors": "Emanuel K Peter and Dietmar J Manstein and Joan-Emma Shea and Alexander Schug",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Chemical Physics",
       "year": 2021,
       "doi": "https://pubs.aip.org/aip/jcp/article/155/10/104114/1064068",
       "volume": "155"
@@ -1530,7 +1530,7 @@
     {
       "title": "A Small Tau Fragment Specifically Templates Four Repeat Tau Aggregates Through Multiple Generations.",
       "authors": "Andrew P Longhini and Austin Dubose and Samuel Lobo and Vishnu Vijayan and Yeran Bai and E Keane and J Sala-Jarque and Arina Nikitina and Daniel Carrettiero and Matthew Unger and Olivia Sclafani and Valerie Fu and Michael Vigers and Luc Buee and Isabelle Landrieu and Scott Shell and Joan E Shea and Songi Han and Kenneth S Kosik",
-      "journal": "Unknown journal",
+      "journal": "Biorxiv: the Preprint Server for Biology",
       "year": 2023,
       "doi": "https://europepmc.org/article/pmc/pmc10491155"
     },
@@ -1579,7 +1579,7 @@
     {
       "title": "Discovering pathways through ribozyme fitness landscapes using information theoretic quantification of epistasis",
       "authors": "Nathaniel Charest and Yuning Shen and Yei-Chen Lai and Irene A Chen and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "RNA",
       "year": 2023,
       "doi": "https://rnajournal.cshlp.org/content/29/11/1644.short",
       "volume": "29",
@@ -1588,7 +1588,7 @@
     {
       "title": "A new transfer free energy based implicit solvation model for the description of disordered and folded proteins",
       "authors": "Andrea Arsiccio and Roberto Pisano and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2022,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.2c03980",
       "volume": "126",
@@ -1615,7 +1615,7 @@
     {
       "title": "A high-throughput workflow to analyze sequence-conformation relationships and explore hydrophobic patterning in disordered peptoids",
       "authors": "Erin C Day and Supraja S Chittari and Keila C Cunha and Roy J Zhao and James N Dodds and Delaney C Davis and Erin S Baker and Rebecca B Berlow and Joan-Emma Shea and Rishikesh U Kulkarni and Abigail S Knight",
-      "journal": "Unknown journal",
+      "journal": "Chem",
       "year": 2024,
       "doi": "https://www.cell.com/chem/abstract/S2451-9294(24)00368-1",
       "volume": "10",
@@ -1624,7 +1624,7 @@
     {
       "title": "Insights into conformational ensembles of compositionally identical disordered peptidomimetics",
       "authors": "Erin C Day and Keila C Cunha and Jianhan Zhao and Audra J DeStefano and James N Dodds and Melissa A Yu and Jaina R Bemis and Songi Han and Erin S Baker and Joan-Emma Shea and Rebecca B Berlow and Abigail S Knight",
-      "journal": "Unknown journal",
+      "journal": "Polymer chemistry",
       "year": 2024,
       "doi": "https://pubs.rsc.org/en/content/articlehtml/2024/py/d4py00341a",
       "volume": "15",
@@ -1633,7 +1633,7 @@
     {
       "title": "Effect of Cosolutes on the Aggregation of a Tau Fragment: A Combined Experimental and Simulation Approach",
       "authors": "Andrea Arsiccio and Xikun Liu and Pritam Ganguly and Steven K Buratto and Michael T Bowers and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2023,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.3c00433",
       "volume": "127",
@@ -1660,7 +1660,7 @@
     {
       "title": "Tau (273-284): A Molecular Dynamics Study of Intrinsically Disordered Protein Conformations in the Presence of Osmolytes",
       "authors": "Zachary A Levine and Luca Larini and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical Journal",
       "year": 2014,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(13)03986-6",
       "volume": "106",
@@ -1686,7 +1686,7 @@
     {
       "title": "Context Dependency of Hydrophobicity in Intrinsically Disordered Proteins: Insights from a New Dewetting Free Energy-Based Hydrophobicity Scale",
       "authors": "Saeed Najafi and Samuel Lobo and M Scott Shell and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "The Journal of Physical Chemistry B",
       "year": 2025,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.4c06399"
     },
@@ -1736,7 +1736,7 @@
     {
       "title": "Mechanical Behavior of Octopus Egg Tethers Composed of Topologically Constrained, Tandemly Repeated EGF Domains",
       "authors": "William R Wonderly and Daniel G DeMartini and Saeed Najafi and Marcela Areyano and Joan-Emma Shea and J Herbert Waite",
-      "journal": "Unknown journal",
+      "journal": "Biomacromolecules",
       "year": 2023,
       "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.biomac.3c00088",
       "volume": "24",
@@ -1808,14 +1808,14 @@
     {
       "title": "Liquid-Liquid Phase Separation of Intrinsically Disordered Peptides (Invited Speaker)",
       "authors": "Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "2020 Virtual AIChE Annual Meeting",
       "year": 2020,
       "doi": "https://aiche.confex.com/aiche/2020/meetingapp.cgi/Paper/612902"
     },
     {
       "title": "Confronting Racism in Chemistry Journals Comment",
       "authors": "Cynthia J Burrows and Jiaxing Huang and Shu Wang and Hyun Jae Kim and Gerald J Meyer and Kirk Schanze and T Randall Lee and Jodie L Lutkenhaus and David Kaplan and Christopher Jones and Carolyn Bertozzi and Laura Kiessling and Mary Beth Mulcahy and Craig W Lindsley and MG Finn and Joel D Blum and Prashant Kamat and Wonyong Choi and Shane Snyder and Courtney C Aldrich and Stuart Rowan and Bin Liu and Dennis Liotta and Paul S Weiss and Deqing Zhang and Krishna N Ganesh and Harry A Atwater and J Justin Gooding and David T Allen and Christopher A Voigt and Jonathan Sweedler and Alanna Schepartz and Vincent Rotello and Sebastien Lecommandoux and Shana J Sturla and Sharon Hammes-Schiffer and Jillian Buriak and Jonathan W Steed and Hongwei Wu and Julie Zimmerman and Bryan Brooks and Phillip Savage and William Tolman and Thomas F Hofmann and Joan F Brennecke and Thomas A Holme and Kenneth M Merz and Gustavo Scuseria and William Jorgensen and Gunda I Georg and Shaomeng Wang and Philip Proteau and John R Yates and Peter Stang and Gilbert C Walker and Marc Hillmyer and Lynne S Taylor and Teri W Odom and Erick Carreira and Kai Rossen and Paul Chirik and Scott J Miller and Joan-Emma Shea and Anne McCoy and Martin Zanni and Gregory Hartland and Gregory Scholes and Joseph A Loo and James Milne and Sarah B Tegen and Daniel T Kulp and Julia Laskin",
-      "journal": "Unknown journal",
+      "journal": "Environmental science & technology",
       "year": 2020,
       "doi": "https://researchonline.stthomas.edu/esploro/outputs/journalArticle/Confronting-Racism-in-Chemistry-Journals-Comment/991015177672703691",
       "volume": "54",
@@ -1833,7 +1833,7 @@
     {
       "title": "Non-additive effects of denaturing and protective cosolvents on protein stability",
       "authors": "Pritam Ganguly and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Bulletin of the American Physical Society",
       "year": 2020,
       "doi": "https://meetings.aps.org/Meeting/MAR20/Session/D22.10",
       "volume": "65"
@@ -1858,7 +1858,7 @@
     {
       "title": "Terminal Capping of Amyloidogenic Tau Fragments Modulates their Fibrillation Propensity",
       "authors": "Shruti Arya and Pritam Ganguly and Sarah L Claud and Andrea Arsiccio and Kristi Lazar Cantrell and Joan Emma Shea and Michael T Bowers",
-      "journal": "Unknown journal",
+      "journal": "Biophysical Journal",
       "year": 2019,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(18)33918-3",
       "volume": "116",
@@ -1867,7 +1867,7 @@
     {
       "title": "Self-Assembly of the Tau Protein: Fibril Formation and Complex Coacervation",
       "authors": "Joan Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical Journal",
       "year": 2019,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(18)31580-7",
       "volume": "116",
@@ -1893,7 +1893,7 @@
     {
       "title": "Conditions for complex coacervation of the microtubule-associated tau protein predicted from field theoretic simulations",
       "authors": "James McCarty and Yanxian Lin and Kris Delaney and Glenn Fredrickson and Songi Han and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "APS March Meeting Abstracts",
       "year": 2019,
       "doi": "https://ui.adsabs.harvard.edu/abs/2019APS..MARV54009M/abstract",
       "volume": "2019",
@@ -1902,7 +1902,7 @@
     {
       "title": "Molecular mechanisms for protein-denaturation in urea and guanidinium chloride mixtures",
       "authors": "Pritam Ganguly and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "APS March Meeting Abstracts",
       "year": 2019,
       "doi": "https://ui.adsabs.harvard.edu/abs/2019APS..MARR63006G/abstract",
       "volume": "2019",
@@ -1911,7 +1911,7 @@
     {
       "title": "Mussel-Inspired Peptoids: The Backbone's Role in Adhesive Properties",
       "authors": "Thomas R Cristiani and William Wonderly and George Degen and Keila Cunha E Silva and Joan-Emma Shea and J Herbert Waite and Jacob Israelachvili",
-      "journal": "Unknown journal",
+      "journal": "2018 AIChE Annual Meeting",
       "year": 2018,
       "doi": "https://aiche.confex.com/aiche/2018/meetingapp.cgi/Paper/537368"
     },
@@ -1927,7 +1927,7 @@
     {
       "title": "Aggregation of the TAU Protein: Insights from Atomistic and Mesoscale Simulations",
       "authors": "Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical Journal",
       "year": 2018,
       "doi": "https://www.cell.com/biophysj/abstract/S0006-3495(17)32264-6",
       "volume": "114",
@@ -1936,7 +1936,7 @@
     {
       "title": "Aggregation of Tau-Fragments in Osmolytic Environment",
       "authors": "Pritam Ganguly and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "APS March Meeting Abstracts",
       "year": 2018,
       "doi": "https://ui.adsabs.harvard.edu/abs/2018APS..MARS50008G/abstract",
       "volume": "2018",
@@ -1945,7 +1945,7 @@
     {
       "title": "Field-theoretic simulations of discrete Gaussian chain polyelectrolytes as a model for coacervation in intrinsically disordered peptides.",
       "authors": "James McCarty and Kris Delaney and Glenn Fredrickson and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "APS March Meeting Abstracts",
       "year": 2018,
       "doi": "https://ui.adsabs.harvard.edu/abs/2018APS..MARC55001M/abstract",
       "volume": "2018",
@@ -1954,7 +1954,7 @@
     {
       "title": "Counteraction of Urea-Denaturation of Proteins by TMAO in Mixed Urea-TMAO Solutions",
       "authors": "Pritam Ganguly and Nico van der Vegt and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "APS March Meeting Abstracts",
       "year": 2018,
       "doi": "https://ui.adsabs.harvard.edu/abs/2018APS..MARL60329G/abstract",
       "volume": "2018",
@@ -1998,7 +1998,7 @@
     {
       "title": "Surfactant pKa Calculations using Molecular Dynamics Simulations",
       "authors": "WF Drew Bennett and Joan-Emma Shea and Frank L Brown",
-      "journal": "Unknown journal",
+      "journal": "Biophysical Journal",
       "year": 2017,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(16)33851-6",
       "volume": "112",
@@ -2055,7 +2055,7 @@
     {
       "title": "Reducing IAPP Aggregation with Mitochondrial Humanin Peptides; Results from Simulations and Experiments",
       "authors": "Zachary A Levine and Alan Okada and Kazuki Teranishi and Ralf Langen and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical Journal",
       "year": 2016,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(15)02173-6",
       "volume": "110",
@@ -2105,7 +2105,7 @@
     {
       "title": "Amyloid Peptide Aggregation",
       "authors": "Luca Larini and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Molecular Modeling at the Atomic Scale",
       "year": 2014,
       "doi": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.1201/b17282-11&type=chapterpdf",
       "pages": "165"
@@ -2121,7 +2121,7 @@
     {
       "title": "Effect of surfaces in modulating protein folding mechanisms",
       "authors": "Joan Shea",
-      "journal": "Unknown journal",
+      "journal": "APS March Meeting Abstracts",
       "year": 2014,
       "doi": "https://ui.adsabs.harvard.edu/abs/2014APS..MAR.W2008S/abstract",
       "volume": "2014",
@@ -2130,7 +2130,7 @@
     {
       "title": "Coarse-Grained Simulations of Peptide Aggregation on Surfaces",
       "authors": "Alex Morriss-Andrews and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical Journal",
       "year": 2014,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(13)01859-6",
       "volume": "106",
@@ -2147,7 +2147,7 @@
     {
       "title": "Simulations of Protein Aggregation",
       "authors": "Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical Journal",
       "year": 2013,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(12)01534-2",
       "volume": "104",
@@ -2156,9 +2156,9 @@
     {
       "title": "Inhibiting Peptide and Protein Self-Aggregation: What Can Simulations Tell Us?",
       "authors": "Joan-Emma Shea and Giorgio Colombo",
-      "journal": "Unknown journal",
+      "journal": "Alzheimer's Disease: Insights Into Low Molecular Weight And Cytotoxic Aggregates From In Vitro And Computer Experiments-Molecular Basis Of Amyloid-beta Protein Aggregation And Fibril Formation",
       "year": 2012,
-      "doi": "https://books.google.com/books?hl=en&lr=&id=vjK6CgAAQBAJ&oi=fnd&pg=PA401&dq=info:q1yCLu-k8dUJ:scholar.google.com&ots=kUYbb7sW1Y&sig=OcswGesOe0KYEMJJxAbhjABvse0",
+      "doi": "https://books.google.com/books?hl=en&lr=&id=vjK6CgAAQBAJ&oi=fnd&pg=PA401&dq=info:q1yCLu-k8dUJ:scholar.google.com&ots=kUYc9dBY5_&sig=jmEehSMAswNCzQOshajKGaRl0XU",
       "volume": "7",
       "pages": "401"
     },
@@ -2181,7 +2181,7 @@
     {
       "title": "Simulations of protein aggregation in the cellular milieu",
       "authors": "Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "Biophysical Journal",
       "year": 2010,
       "doi": "https://www.cell.com/biophysj/fulltext/S0006-3495(09)01835-9",
       "volume": "98",
@@ -2253,7 +2253,7 @@
     {
       "title": "Structure of Alzheimer's 10-35 \u03b2 peptide from replica-exchange molecular dynamics simulations in explicit water",
       "authors": "Andriy Baumketner and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "APS March Meeting Abstracts",
       "year": 2006,
       "doi": "https://ui.adsabs.harvard.edu/abs/2006APS..MARN10005B/abstract",
       "pages": "N10. 005"
@@ -2288,7 +2288,7 @@
     {
       "title": "Acceleration through passive destabilization: protein folding in a weak hydrophobic environment",
       "authors": "Andrew Jewett and Andrij Baumketner and Joan-Emma Shea",
-      "journal": "Unknown journal",
+      "journal": "APS March Meeting Abstracts",
       "year": 2004,
       "doi": "https://ui.adsabs.harvard.edu/abs/2004APS..MAR.R1206J/abstract",
       "volume": "2004",
@@ -2297,7 +2297,7 @@
     {
       "title": "Effects of frustration on the kinetics of helix formation in alanine polypeptides",
       "authors": "A Baumketner and J-E Shea",
-      "journal": "Unknown journal",
+      "journal": "Condensed Matter Physics",
       "year": 2004,
       "doi": "http://dspace.nbuv.gov.ua/handle/123456789/118965"
     },
@@ -2313,7 +2313,7 @@
     {
       "title": "FACTORS AFFECTING THE STABILITY AND PROPENSITY TO AGGREGATE OF AN OFF-LATTICE \u03b2-BARREL PROTEIN",
       "authors": "Mary A Griffin and Joan-Emma Shea and Miriam Friedel",
-      "journal": "Unknown journal",
+      "journal": "Darius Abramavicius",
       "year": "Unknown",
       "doi": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=958cc169380a9507c555f8388f4813a03b73807e#page=23",
       "pages": "4"
