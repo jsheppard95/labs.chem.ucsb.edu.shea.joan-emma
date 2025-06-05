@@ -1,5 +1,8 @@
 # Mac OSX Stuff
 .DS_Store
 
+# Vim stuff
+*.un~
+
 # Word backup files
 ~$*.docx
