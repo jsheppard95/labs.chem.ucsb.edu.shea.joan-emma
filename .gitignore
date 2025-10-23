@@ -6,3 +6,6 @@
 
 # Word backup files
 ~$*.docx
+
+# Website config
+.env
