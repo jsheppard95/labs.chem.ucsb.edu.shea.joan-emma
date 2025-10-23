@@ -3,7 +3,6 @@ from PIL import Image
 # List of file paths for your uploaded images
 file_paths = [
     "Images/People/Joan-Emma-Shea.webp",
-    "Images/People/pritam.jpg",
     "Images/People/keila.jpg",
     "Images/People/jackson.jpg",
     "Images/People/sam.jpg",
@@ -11,9 +10,7 @@ file_paths = [
     "Images/People/daniel.jpeg",
     "Images/People/leif.jpeg",
     "Images/People/matthew.jpeg",
-    "Images/People/sam_h.jpg",
     "Images/People/anthony.jpeg",
-    "Images/Main/UC-Santa-Barbara-seal-Navy RGB.png"
 ]
 
 def create_thumbnail(im, size=200):
@@ -37,7 +34,7 @@ for path in file_paths:
     thumbnails.append(thumb)
 
 # Set up the dimensions for the collage: 4 columns x 2 rows
-cols, rows = 4, 3
+cols, rows = 3, 3
 cell_size = 200  # each thumbnail is 200x200 pixels
 collage_width = cols * cell_size
 collage_height = rows * cell_size
